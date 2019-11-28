@@ -1,2 +1,2 @@
-git学习第一天
-hellogit
+hello git
+second push
