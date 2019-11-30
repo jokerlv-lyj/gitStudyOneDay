@@ -2,4 +2,11 @@ hello git
 second push
 first pull(web-local)
 
+<<<<<<< HEAD
 123456
+=======
+second day!
+commit dataSet of Adult
+11122233
+
+>>>>>>> faaa55e1e512158de9d5df4cfc6e93b9fce79b06
