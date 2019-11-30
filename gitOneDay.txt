@@ -2,5 +2,4 @@ hello git
 second push
 first pull(web-local)
 
-second day!
-commit dataSet of Adult
+123456
